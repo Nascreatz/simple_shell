@@ -1,1 +1,1 @@
-Simple shell - A collaborative project
+Simple shell
